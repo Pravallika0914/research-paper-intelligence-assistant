@@ -1,8 +1,9 @@
 Flask
-google-generativeai
-python-dotenv
+gunicorn
+pdfplumber
+transformers
+torch
+keybert
 sentence-transformers
 faiss-cpu
-numpy
-matplotlib
-gunicorn
+langchain
